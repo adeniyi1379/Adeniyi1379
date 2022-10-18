@@ -1,9 +1,6 @@
 Hey, Welcome to __ADERONMU__ __ADENIYI__ Page
 
 
-
-![Image](https://pbs.twimg.com/profile_images/1247122946109440004/YZiE8AXu_400x400.jpg)
-
 I am currently working on my technicall data analysis skills. 
 
 You are free to ask me about my journey on data analysis.
