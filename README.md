@@ -1,7 +1,7 @@
 Hey, Welcome to __ADERONMU__ __ADENIYI__ Page
 
 
-I am currently working on my technicall data analysis skills. 
+I am currently working on my technical data analysis skills. 
 
 You are free to ask me about my journey on data analysis.
 
